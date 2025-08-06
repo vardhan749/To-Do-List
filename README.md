@@ -1,4 +1,29 @@
 # To-Do-List
+
+## Overview
+A dynamic, lightweight To-Do List application built with pure HTML, CSS, and JavaScript. This project showcases real-time task management—allowing users to add, complete, and delete tasks with instant UI updates, no page reloads.
+
+## 🔧 Tools Used
+- Visual Studio Code
+- Chrome Browser
+- Live Server Extension
+
+## 🌟 Features
+- Add tasks dynamically with a button click
+- Mark tasks as complete by clicking them
+- Remove tasks instantly with a delete button
+- Responsive UI with real-time DOM updates
+
+## 📁 Folder Contents
+- index.html – Main layout and structure
+- styles.css – Clean, modern design for user-friendly experience
+- script.js – Handles event listeners and dynamic UI behavior
+
+## screenshort
+<img width="1905" height="869" alt="image" src="https://github.com/user-attachments/assets/e1c8ba36-aa6d-410d-b4eb-5906c0232c67" />
+
+Interview Questions:
+
 How do you select elements in the DOM? 
 ANS. You can use methods like getElementById(), querySelector(), and getElementsByClassName() to target elements in the HTML structure.
 
